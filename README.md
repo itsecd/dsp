@@ -6,6 +6,6 @@
 
 Никаких PR в данный репозиторий делать не нужно.
 
-[Учебное пособие](https://raw.githubusercontent.com/itsecd/dsp/main/lab1.pdf)
-
-[Лабораторная работа № 1](https://raw.githubusercontent.com/itsecd/dsp/main/lab1.pdf)
+## Учебные материалы
+- [Учебное пособие](https://raw.githubusercontent.com/itsecd/dsp/main/textbook.pdf)
+- [Лабораторная работа № 1](https://raw.githubusercontent.com/itsecd/dsp/main/lab1.pdf)
