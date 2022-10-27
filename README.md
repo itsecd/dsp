@@ -12,3 +12,4 @@ PR в данный репозиторий делать не надо.
 - [ЛР № 2. Основной тон голоса](https://raw.githubusercontent.com/itsecd/dsp/main/lab2.pdf)
 - [ЛР № 3. Хорус-эффект](https://raw.githubusercontent.com/itsecd/dsp/main/lab3.pdf)
 - [ЛР № 4. Эффект роботизации](https://raw.githubusercontent.com/itsecd/dsp/main/lab4.pdf)
+- [ЛР № 5. Транскрибирование музыки](https://raw.githubusercontent.com/itsecd/dsp/main/lab5.pdf)
